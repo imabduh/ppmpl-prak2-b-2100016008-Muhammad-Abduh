@@ -1,0 +1,17 @@
+{
+  "name": "integration-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Muhammad Abduh",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^10.7.3",
+    "sinon": "^19.0.2"
+  }
+}
